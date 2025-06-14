@@ -1,7 +1,11 @@
 {
-  "albumId": 1,
-  "id": 1,
-  "title": "Ursinha hacker",
-  "url": "https://drive.google.com/uc?export=view&id=1gqSGaZmNUBsouLIHtHiOFp_I2DiBKBq1",
-  "thumbnailUrl": "https://drive.google.com/uc?export=view&id=1gqSGaZmNUBsouLIHtHiOFp_I2DiBKBq1"
+  "photos": [
+    {
+      "albumId": 1,
+      "id": 1,
+      "title": "Ursinha hacker",
+      "url": "https://drive.google.com/uc?export=view&id=1gqSGaZmNUBsouLIHtHiOFp_I2DiBKBq1",
+      "thumbnailUrl": "https://drive.google.com/uc?export=view&id=1gqSGaZmNUBsouLIHtHiOFp_I2DiBKBq1"
+    }
+  ]
 }
