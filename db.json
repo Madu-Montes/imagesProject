@@ -1,0 +1,18 @@
+{
+  "photos": [
+    {
+      "albumId": 1,
+      "id": 1,
+      "title": "Foto 1",
+      "url": "https://i.ibb.co/QYt1Ypw/exemplo.jpg",
+      "thumbnailUrl": "https://i.ibb.co/QYt1Ypw/exemplo.jpg"
+    },
+    {
+      "albumId": 1,
+      "id": 2,
+      "title": "Foto 2",
+      "url": "https://i.ibb.co/8M4m8cQ/exemplo2.jpg",
+      "thumbnailUrl": "https://i.ibb.co/8M4m8cQ/exemplo2.jpg"
+    }
+  ]
+}
