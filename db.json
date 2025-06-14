@@ -1,18 +1,7 @@
 {
-  "photos": [
-    {
-      "albumId": 1,
-      "id": 1,
-      "title": "Foto 1",
-      "url": "https://i.ibb.co/QYt1Ypw/exemplo.jpg",
-      "thumbnailUrl": "https://i.ibb.co/QYt1Ypw/exemplo.jpg"
-    },
-    {
-      "albumId": 1,
-      "id": 2,
-      "title": "Foto 2",
-      "url": "https://i.ibb.co/8M4m8cQ/exemplo2.jpg",
-      "thumbnailUrl": "https://i.ibb.co/8M4m8cQ/exemplo2.jpg"
-    }
-  ]
+  "albumId": 1,
+  "id": 1,
+  "title": "Ursinha hacker",
+  "url": "https://drive.google.com/drive/folders/1RlShOhk7hPrwaulrh9tyaCMiZD7YFNsL?usp=drive_link",
+  "thumbnailUrl": "https://drive.google.com/drive/folders/1RlShOhk7hPrwaulrh9tyaCMiZD7YFNsL?usp=drive_link"
 }
